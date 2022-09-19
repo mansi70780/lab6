@@ -1,3 +1,8 @@
 hii
 hello
+<<<<<<< HEAD
 b
+=======
+everyone
+a
+>>>>>>> mansi
